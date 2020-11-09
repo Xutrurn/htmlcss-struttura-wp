@@ -15,7 +15,7 @@
 }
 
 .container{
-  width: 100%
+  width: 100%;
   margin:auto;
   height: 100vh;
   background-color: rgb(81, 60, 222);
@@ -38,7 +38,13 @@ main{
   background: rgb(138, 53, 125);
 }
 
+.col-left{
+  width: 20%;
+  height: 50%;
+  background-color: rgb(123, 142, 70);
+}
+
 footer{
-  height: 150px;
+  height: 100px;
   background-color: rgb(29, 50, 140);
 }
