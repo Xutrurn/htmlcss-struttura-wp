@@ -13,3 +13,32 @@
   display: table;
   clear: both;
 }
+
+.container{
+  width: 100%
+  margin:auto;
+  height: 100vh;
+  background-color: rgb(81, 60, 222);
+  text-align:
+}
+
+.center{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+
+header{
+  height: 150px;
+  background-color: rgb(93, 133, 127);
+}
+
+main{
+  height: 500px;
+  background: rgb(138, 53, 125);
+}
+
+footer{
+  height: 150px;
+  background-color: rgb(29, 50, 140);
+}
