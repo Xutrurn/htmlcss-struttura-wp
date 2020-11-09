@@ -19,14 +19,14 @@ body{
 }
 
 .container{
-  width: 680px;
+  width: 640px;
   margin: 10px auto;
 }
 
 /* HEADER START */
 header{
   width: 100%;
-  height: 120px;
+  height: 250px;
   /* background-color: rgb(93, 133, 127); */
 }
 
@@ -47,43 +47,47 @@ nav{
 /* MAIN START */
 main{
   padding: 10px 0;
+  height: 600px;
   /* background: rgb(138, 53, 125); */
 }
 
 .col-left{
-  width: 20%;
-  height: 240px;
+  width: 15%;
+  /* height: 240px; */
+  height: 40%;
   border-radius: 5px;
   background-color: rgb(123, 142, 70);
 }
 
 .central-section{
-  width: calc(60% - 60px);
-  height: 180px;
+  width: calc(70% - 60px);
+  /* height: 180px; */
+  height: 25%;
   margin: 0 30px;
   border-radius: 5px;
   background-color: rgb(198, 65, 192);
 }
 
 .col-right{
-  width: 20%;
+  width: 15%;
+  height: 100%;
   /* background-color: rgb(114, 201, 62); */
 }
 
 aside .box{
   width: 100%;
-  height: 200px;
-  margin-bottom: 15px;
+  height: 30%;
+  margin-bottom: 20px;
   border-radius: 5px;
   background-color: rgb(193, 127, 228);
 }
 /* MAIN END */
 
-
 /* FOOTER START */
 footer{
   width: 100%;
-  height: 80px;
+  height: 100px;
   border-radius: 5px;
   background-color: rgb(29, 50, 140);
 }
+/* FOOTER END */
